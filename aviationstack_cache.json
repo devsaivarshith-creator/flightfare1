@@ -1,0 +1,264 @@
+﻿{
+    "pagination":  {
+                       "limit":  5,
+                       "offset":  0,
+                       "count":  5,
+                       "total":  10000
+                   },
+    "data":  [
+                 {
+                     "flight_date":  "2026-10-15",
+                     "flight_status":  "scheduled",
+                     "departure":  {
+                                       "airport":  "Melbourne - Tullamarine Airport",
+                                       "timezone":  "Australia/Melbourne",
+                                       "iata":  "MEL",
+                                       "icao":  "YMML",
+                                       "terminal":  "4",
+                                       "gate":  "46",
+                                       "delay":  null,
+                                       "scheduled":  "2026-10-15T00:00:00+00:00",
+                                       "estimated":  "2026-10-15T00:00:00+00:00",
+                                       "actual":  null,
+                                       "estimated_runway":  null,
+                                       "actual_runway":  null
+                                   },
+                     "arrival":  {
+                                     "airport":  "Adelaide International Airport",
+                                     "timezone":  "Australia/Adelaide",
+                                     "iata":  "ADL",
+                                     "icao":  "YPAD",
+                                     "terminal":  "1",
+                                     "gate":  null,
+                                     "baggage":  null,
+                                     "scheduled":  "2026-10-15T02:00:00+00:00",
+                                     "delay":  null,
+                                     "estimated":  null,
+                                     "actual":  null,
+                                     "estimated_runway":  null,
+                                     "actual_runway":  null
+                                 },
+                     "airline":  {
+                                     "name":  "Jetstar",
+                                     "iata":  "JQ",
+                                     "icao":  "JST"
+                                 },
+                     "flight":  {
+                                    "number":  "6003",
+                                    "iata":  "JQ6003",
+                                    "icao":  "JST6003",
+                                    "codeshared":  null
+                                },
+                     "aircraft":  null,
+                     "live":  null
+                 },
+                 {
+                     "flight_date":  "2026-10-15",
+                     "flight_status":  "scheduled",
+                     "departure":  {
+                                       "airport":  "Melbourne - Tullamarine Airport",
+                                       "timezone":  "Australia/Melbourne",
+                                       "iata":  "MEL",
+                                       "icao":  "YMML",
+                                       "terminal":  "4",
+                                       "gate":  null,
+                                       "delay":  null,
+                                       "scheduled":  "2026-10-15T00:00:00+00:00",
+                                       "estimated":  "2026-10-15T00:00:00+00:00",
+                                       "actual":  null,
+                                       "estimated_runway":  null,
+                                       "actual_runway":  null
+                                   },
+                     "arrival":  {
+                                     "airport":  "Adelaide International Airport",
+                                     "timezone":  "Australia/Adelaide",
+                                     "iata":  "ADL",
+                                     "icao":  "YPAD",
+                                     "terminal":  "1",
+                                     "gate":  null,
+                                     "baggage":  null,
+                                     "scheduled":  "2026-10-15T02:00:00+00:00",
+                                     "delay":  null,
+                                     "estimated":  null,
+                                     "actual":  null,
+                                     "estimated_runway":  null,
+                                     "actual_runway":  null
+                                 },
+                     "airline":  {
+                                     "name":  "Jetstar",
+                                     "iata":  "JQ",
+                                     "icao":  "JST"
+                                 },
+                     "flight":  {
+                                    "number":  "6005",
+                                    "iata":  "JQ6005",
+                                    "icao":  "JST6005",
+                                    "codeshared":  null
+                                },
+                     "aircraft":  null,
+                     "live":  null
+                 },
+                 {
+                     "flight_date":  "2026-10-15",
+                     "flight_status":  "scheduled",
+                     "departure":  {
+                                       "airport":  "Melbourne - Tullamarine Airport",
+                                       "timezone":  "Australia/Melbourne",
+                                       "iata":  "MEL",
+                                       "icao":  "YMML",
+                                       "terminal":  "4",
+                                       "gate":  null,
+                                       "delay":  null,
+                                       "scheduled":  "2026-10-15T00:00:00+00:00",
+                                       "estimated":  "2026-10-15T00:00:00+00:00",
+                                       "actual":  null,
+                                       "estimated_runway":  null,
+                                       "actual_runway":  null
+                                   },
+                     "arrival":  {
+                                     "airport":  "Adelaide International Airport",
+                                     "timezone":  "Australia/Adelaide",
+                                     "iata":  "ADL",
+                                     "icao":  "YPAD",
+                                     "terminal":  "1",
+                                     "gate":  null,
+                                     "baggage":  null,
+                                     "scheduled":  "2026-10-15T02:00:00+00:00",
+                                     "delay":  null,
+                                     "estimated":  null,
+                                     "actual":  null,
+                                     "estimated_runway":  null,
+                                     "actual_runway":  null
+                                 },
+                     "airline":  {
+                                     "name":  "Jetstar",
+                                     "iata":  "JQ",
+                                     "icao":  "JST"
+                                 },
+                     "flight":  {
+                                    "number":  "6004",
+                                    "iata":  "JQ6004",
+                                    "icao":  "JST6004",
+                                    "codeshared":  null
+                                },
+                     "aircraft":  null,
+                     "live":  null
+                 },
+                 {
+                     "flight_date":  "2026-10-15",
+                     "flight_status":  "scheduled",
+                     "departure":  {
+                                       "airport":  "Auckland International",
+                                       "timezone":  "Pacific/Auckland",
+                                       "iata":  "AKL",
+                                       "icao":  "NZAA",
+                                       "terminal":  "I",
+                                       "gate":  "8",
+                                       "delay":  null,
+                                       "scheduled":  "2026-10-15T00:55:00+00:00",
+                                       "estimated":  "2026-10-15T00:55:00+00:00",
+                                       "actual":  null,
+                                       "estimated_runway":  null,
+                                       "actual_runway":  null
+                                   },
+                     "arrival":  {
+                                     "airport":  "Singapore Changi",
+                                     "timezone":  "Asia/Singapore",
+                                     "iata":  "SIN",
+                                     "icao":  "WSSS",
+                                     "terminal":  "3",
+                                     "gate":  null,
+                                     "baggage":  null,
+                                     "scheduled":  "2026-10-15T06:45:00+00:00",
+                                     "delay":  null,
+                                     "estimated":  null,
+                                     "actual":  null,
+                                     "estimated_runway":  null,
+                                     "actual_runway":  null
+                                 },
+                     "airline":  {
+                                     "name":  "Singapore Airlines",
+                                     "iata":  "SQ",
+                                     "icao":  "SIA"
+                                 },
+                     "flight":  {
+                                    "number":  "4282",
+                                    "iata":  "SQ4282",
+                                    "icao":  "SIA4282",
+                                    "codeshared":  {
+                                                       "airline_name":  "air new zealand",
+                                                       "airline_iata":  "nz",
+                                                       "airline_icao":  "anz",
+                                                       "flight_number":  "282",
+                                                       "flight_iata":  "nz282",
+                                                       "flight_icao":  "anz282"
+                                                   }
+                                },
+                     "aircraft":  {
+                                      "registration":  null,
+                                      "iata":  null,
+                                      "icao":  null,
+                                      "icao24":  "C820F2"
+                                  },
+                     "live":  null
+                 },
+                 {
+                     "flight_date":  "2026-10-15",
+                     "flight_status":  "scheduled",
+                     "departure":  {
+                                       "airport":  "Auckland International",
+                                       "timezone":  "Pacific/Auckland",
+                                       "iata":  "AKL",
+                                       "icao":  "NZAA",
+                                       "terminal":  "I",
+                                       "gate":  "8",
+                                       "delay":  null,
+                                       "scheduled":  "2026-10-15T00:55:00+00:00",
+                                       "estimated":  "2026-10-15T00:55:00+00:00",
+                                       "actual":  null,
+                                       "estimated_runway":  null,
+                                       "actual_runway":  null
+                                   },
+                     "arrival":  {
+                                     "airport":  "Singapore Changi",
+                                     "timezone":  "Asia/Singapore",
+                                     "iata":  "SIN",
+                                     "icao":  "WSSS",
+                                     "terminal":  "3",
+                                     "gate":  null,
+                                     "baggage":  null,
+                                     "scheduled":  "2026-10-15T06:45:00+00:00",
+                                     "delay":  null,
+                                     "estimated":  null,
+                                     "actual":  null,
+                                     "estimated_runway":  null,
+                                     "actual_runway":  null
+                                 },
+                     "airline":  {
+                                     "name":  "Lufthansa",
+                                     "iata":  "LH",
+                                     "icao":  "DLH"
+                                 },
+                     "flight":  {
+                                    "number":  "7166",
+                                    "iata":  "LH7166",
+                                    "icao":  "DLH7166",
+                                    "codeshared":  {
+                                                       "airline_name":  "air new zealand",
+                                                       "airline_iata":  "nz",
+                                                       "airline_icao":  "anz",
+                                                       "flight_number":  "282",
+                                                       "flight_iata":  "nz282",
+                                                       "flight_icao":  "anz282"
+                                                   }
+                                },
+                     "aircraft":  {
+                                      "registration":  null,
+                                      "iata":  null,
+                                      "icao":  null,
+                                      "icao24":  "C820F2"
+                                  },
+                     "live":  null
+                 }
+             ]
+}
